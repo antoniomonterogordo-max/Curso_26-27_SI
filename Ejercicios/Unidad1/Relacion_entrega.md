@@ -128,10 +128,10 @@ S = NOT(A)·NOT(B) + NOT(A)·NOT(C) + A·B·C
 ###Imagenes
 
 
-![Primera][img/Primera.jpeg]
-![Segunda][img/Segunda.jpeg]
-![Tercera][img/Tercera.jpeg]
-![Cuarta][img/Cuarta.jpeg]
+![Primera](img/Primera.jpeg)
+![Segunda](img/Segunda.jpeg)
+![Tercera](img/Tercera.jpeg)
+![Cuarta](img/Cuarta.jpeg)
 
 
 ### Fecha: 05-October-2026- Expresión simplificada
