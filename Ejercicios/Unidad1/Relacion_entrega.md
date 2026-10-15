@@ -125,5 +125,14 @@ S = NOT(A)·NOT(B) + NOT(A)·NOT(C) + A·B·C
 |  7  | 1 | 1 | 1 | 1 |
 
 
+###Imagenes
+
+
+l[Primera][/img/Primera]
+l[Primera][/img/Segunda]
+l[Primera][/img/Tercera]
+l[Primera][/img/Cuarta]
+
+
 ### Fecha: 05-October-2026- Expresión simplificada
 
