@@ -59,7 +59,7 @@ Acarreo en el segundo decimal, también en la quinta y primera  bombilla
 (-45) + (-41) en c2: 11010011 + 11010111 = 110101010
 No ocurre desbordamiento, debido a que no cambia de signo
 - Apartado d
-(-20) + (37): 10010100 + 00100101
+(-20) + (37): 10010100 + 00100101 =  00111001(2)
 Lo que ocurre es que el de resultado tendra que tener el símbolo del de mayor valor, por lo que el bit del signo vendrá
 del +37 el cual seria 0.
 
@@ -76,7 +76,7 @@ c1 resultado = 0001,0111, le sumamos 1: 0001,1000
 - Apartado b
 1011,11 * 101 = 111010,11
 - Apartado c
-11000001 = 193
+11000001(2) = 193(10)
 Moverlo dos a la izquierda nos daria 1100000100, que seria multiplicarlo por 4, y nos daria 772
 No se perdería ninguna información
 Moverlo tres a la derecha nos daría 11000,001, que seria como dividirlo por 8, y nos daría 24,125 o 24(10)
