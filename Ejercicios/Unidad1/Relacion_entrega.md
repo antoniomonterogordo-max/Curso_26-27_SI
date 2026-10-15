@@ -129,9 +129,9 @@ S = NOT(A)·NOT(B) + NOT(A)·NOT(C) + A·B·C
 
 
 ![Primera][/img/Primera.jpeg]
-![Primera][/img/Segunda.jpeg]
-![Primera][/img/Tercera.jpeg]
-![Primera][/img/Cuarta.jpeg]
+![Segunda][/img/Segunda.jpeg]
+![Tercera][/img/Tercera.jpeg]
+![Cuarta][/img/Cuarta.jpeg]
 
 
 ### Fecha: 05-October-2026- Expresión simplificada
