@@ -5,9 +5,8 @@
 **Fecha:** ____________________  **Puesto:** ____________________  **Equipo / etiqueta:** ____________________
 
 **Integrantes del grupo (2 o 3):**
-
-1. Nombre y apellidos: ______________________________________________
-2. Nombre y apellidos: ______________________________________________
+1. Nombre y apellidos: Marco Ariza Arroyo
+2. Nombre y apellidos: Antonio Fco. Montero Gordo ______________________________________________
 3. Nombre y apellidos (si procede): __________________________________
 
 > **Equipo A:** ordenador de prácticas utilizado para el montaje o la revisión. Puede estar averiado; no se exige que arranque.
@@ -18,31 +17,32 @@
 
 **Trabajo previsto:**
 
-- [ ] Desmontaje y montaje
-- [ ] Revisión / diagnóstico
+- [X] Desmontaje y montaje
+- [X] Revisión / diagnóstico
 - [ ] Otro: ___________________________________
 
 **Estado al recibirlo:**
 
 - [ ] Completo
-- [ ] Faltan piezas
+- [X] Faltan piezas
 - [ ] Sucio
 - [ ] Daños visibles
 
 **Síntomas conocidos, piezas ausentes o daños observados:**
 
-________________________________________________________________________
-
+Falta disco duro
 ________________________________________________________________________
 
 ## 3. Seguridad y preparación · Equipo A
 
-- [ ] Equipo desconectado de la corriente y de los periféricos.
-- [ ] Botón de encendido pulsado tras desconectar.
-- [ ] Superficie despejada y piezas organizadas.
-- [ ] Estado inicial y conexiones fotografiados.
+- [X] Equipo desconectado de la corriente y de los periféricos.
+- [X] Botón de encendido pulsado tras desconectar.
+- [X] Superficie despejada y piezas organizadas.
+- [X] Estado inicial y conexiones fotografiados.
 
-**Herramientas utilizadas:** _______________________________________________
+**Herramientas utilizadas:** 
+
+Destornillador de punta de estrella imantado
 
 **No abráis la fuente ni forcéis piezas.** Ante daños o baterías, avisad al profesor.
 
@@ -52,34 +52,32 @@ Anotad lo que podáis verificar. Si no se distingue, escribid «no identificado�
 
 | Componente | Marca / modelo | Dato observado |
 |---|---|---|
-| Placa base | | |
-| Procesador | | |
-| RAM | | |
-| Almacenamiento | | |
-| Fuente | | |
-| Disipador / ventilador | | |
-| Tarjetas / otros | | |
+| Placa base | |Gigabyte |
+| Procesador | |Intel Celeron G1840 |
+| RAM | |Crucial DDR3 |
+| Almacenamiento | |Faltante |
+| Fuente | |Power Man |
+| Disipador / ventilador | |Intel |
+| Tarjetas / otros | |Tarjeta de wifi |
 
 ## 5. Conexiones y observaciones · Equipo A
 
 Identificad y marcad las conexiones presentes y comprobadas:
 
-- [ ] Alimentación de la placa
-- [ ] Alimentación de la CPU
-- [ ] Ventilador de la CPU
-- [ ] Datos de almacenamiento
-- [ ] Alimentación del disco
-- [ ] Panel frontal
+- [X] Alimentación de la placa
+- [X] Alimentación de la CPU
+- [X] Ventilador de la CPU
+- [No hay] Datos de almacenamiento
+- [X] Alimentación del disco
+- [X] Panel frontal
 
 **¿Hay algún cable suelto, conector dañado o conexión que no sepáis identificar?**
 
-________________________________________________________________________
-
-________________________________________________________________________
+Ninguno 
 
 **Fotografías de referencia (nombre de archivo o ubicación):**
 
-________________________________________________________________________
+[Ver carpeta de imágenes](./imagenes/)
 
 No retiréis la CPU ni el disipador sin indicación del profesor. Si se retira el disipador, consultad sobre limpieza y pasta térmica antes de volver a instalarlo.
 
@@ -89,39 +87,33 @@ Registrad únicamente lo que hayáis hecho; marcad **N/P** si no procede.
 
 | Operación | Hecho | N/P | Foto / observaciones |
 |---|:---:|:---:|---|
-| Apertura y fotos iniciales | ☐ | ☐ | |
-| Desconexión y organización de cables | ☐ | ☐ | |
-| Desmontaje / montaje de memoria | ☐ | ☐ | |
-| Revisión / montaje de almacenamiento | ☐ | ☐ | |
-| CPU y disipador, si se autoriza | ☐ | ☐ | |
-| Tarjetas de expansión | ☐ | ☐ | |
-| Reconexión y orden de cables | ☐ | ☐ | |
-| Cierre y limpieza del puesto | ☐ | ☐ | |
+| Apertura y fotos iniciales |X| ☐ | |
+| Desconexión y organización de cables |X| ☐ | |
+| Desmontaje / montaje de memoria |X| ☐ | |
+| Revisión / montaje de almacenamiento | ☐  | X | |
+| CPU y disipador, si se autoriza |X| ☐ | |
+| Tarjetas de expansión |X| ☐ | |
+| Reconexión y orden de cables |X| ☐ | |
+| Cierre y limpieza del puesto |X| ☐ | |
 
 ## 7. Incidencia o reparación · Equipo A
 
 **Problema encontrado / hipótesis** (si no hay, indicadlo):
 
-________________________________________________________________________
-
-________________________________________________________________________
+No se encontraron problemas
 
 **Acción realizada y resultado observado:**
 
-________________________________________________________________________
-
-________________________________________________________________________
-
-________________________________________________________________________
+Ninguna acción realizada
 
 ## 8. Comprobación final · Equipo A
 
-- [ ] Piezas sujetas.
-- [ ] RAM encajada.
-- [ ] Cables revisados.
-- [ ] Sin tornillos sueltos.
-- [ ] Ventilador de CPU conectado.
-- [ ] Puesto recogido.
+- [X] Piezas sujetas.
+- [X] RAM encajada.
+- [X] Cables revisados.
+- [X] Sin tornillos sueltos.
+- [X] Ventilador de CPU conectado.
+- [X] Puesto recogido.
 
 **¿Encendido autorizado?** ☐ Sí  ☐ No
 
@@ -137,31 +129,27 @@ Una observación no demuestra por sí sola la causa de una avería.
 
 Utilizad vuestro propio ordenador funcional para los siguientes apartados.
 
-**Equipo:** ☐ Portátil  ☐ Sobremesa  ☐ Otro: ___________________________
+**Equipo:** X Portátil  ☐ Sobremesa  ☐ Otro: ___________________________
 
-**Linux:** ☐ Instalado directamente  ☐ Máquina virtual
+**Linux:** ☐ Instalado directamente  X Máquina virtual
 
-**Sistema operativo y versión:** __________________________________________
+**Sistema operativo y versión:** 
 
-**Si es virtual: sistema anfitrión y programa de virtualización:** ______________
+Ubuntu 26.04.1 LTS
+
+**Si es virtual: sistema anfitrión y programa de virtualización:** Windows 11, Ubuntu
 
 **¿Arranca con normalidad? ¿Qué observáis desde el encendido hasta el inicio?**
 
-________________________________________________________________________
-
-________________________________________________________________________
+Se puede obervar el nombre del usuario, y el numero del ordenador
 
 **¿Qué es el POST y en qué se diferencia de la UEFI y del sistema operativo?**
 
-________________________________________________________________________
-
-________________________________________________________________________
+El POST es la comprobación automática del hardware y el UEFI es el firmware de la placa base
 
 **¿Habéis accedido a la UEFI o consultado información de ella? ¿Qué dato habéis visto?**
 
-________________________________________________________________________
-
-________________________________________________________________________
+Si, se ha podido ver la versión de la UEFI, modelo de placa, etc...
 
 No cambiéis ajustes de UEFI sin indicación del profesor. Si no podéis acceder, indicadlo.
 
@@ -169,51 +157,54 @@ No cambiéis ajustes de UEFI sin indicación del profesor. Si no podéis acceder
 
 Ejecutad `lscpu`. Adjuntad la salida revisada o indicad si el comando falla.
 
-**Modelo / CPU presentada a Linux:** _______________________________________
+**Modelo / CPU presentada a Linux:** 
 
-**Arquitectura:** ____________________  **CPU lógicas visibles:** ______________
+Oryon
+
+**Arquitectura:** Aarch 64  **CPU lógicas visibles:** 8
 
 **¿Qué diferencia hay entre núcleo e hilo? ¿Qué podéis concluir de la salida?**
 
-________________________________________________________________________
+Núcleo: la parte física de la CPU que ejecuta instrucciones. Más núcleos permiten hacer más tareas a la vez.
 
-________________________________________________________________________
+Hilo: una secuencia de instrucciones que un núcleo ejecuta. Con SMT (Hyper-Threading), un núcleo puede llevar 2 hilos a la vez.
+
+CPU lógicas = núcleos * hilos por núcleo.
 
 ## 11. Linux: memoria · `free -h`
 
 Adjuntad las salidas de los comandos. Si alguno falla o no está disponible, anotadlo. Antes de entregarlas, ocultad usuarios, nombres de equipo, números de serie y UUID. En una máquina virtual pueden mostrarse recursos virtuales, no el hardware físico completo.
 
-**Memoria total:** ____________________  **Memoria disponible:** ______________
+**Memoria total:** 7,5GB  **Memoria disponible:** 6,8GB
 
 **¿Qué significa «disponible» y por qué puede diferir de «libre»?**
 
-________________________________________________________________________
-
-________________________________________________________________________
+"Libre" es la memoria que no está usando nadie. "Disponible" es una estimación de la memoria que se puede dar a programas nuevos sin usar el swap
 
 ## 12. Linux: almacenamiento · `lsblk`
 
-**Disco identificado:** ___________________________________________________
+**Disco identificado:** 
+SDD de 1TB
 
-**Partición y punto de montaje, si aparecen:** ________________________________
+**Partición y punto de montaje, si aparecen:** 
+No aparecen particciones
 
 **Explicad la diferencia entre disco, partición y punto de montaje:**
+El disco es el dispositivo de almacenamiento, físico o virtual. La partición es una división lógica del disco con su propio sistema de archivos
 
-________________________________________________________________________
-
-________________________________________________________________________
 
 ## 13. Linux: dispositivos · `lspci` y `lsusb`
 
-**Dispositivo 1 y función:** ________________________________________________
+**Dispositivo 1 y función:** 
+lscpi no está instalado, por lo que no se pudo identificar ningun PCI
 
-**Dispositivo 2 y función:** ________________________________________________
+**Dispositivo 2 y función:** 
+lsusb no está instalado, por lo que no se pudo identificar ningun USB
+
 
 **¿Por qué podría no aparecer un componente físico o mostrarse de otra forma en una máquina virtual?**
 
-________________________________________________________________________
-
-________________________________________________________________________
+Porque la máquina virtual no accede directamente al hardware: el sistema anfitrión presenta dispositivos virtuales o emulados y solo expone los recursos que asigna
 
 ## 14. Duda técnica y uso crítico de IA
 
@@ -241,24 +232,18 @@ ________________________________________________________________________
 
 **¿Qué paso fue más difícil y cómo lo resolvisteis?**
 
-________________________________________________________________________
-
-________________________________________________________________________
+Lo más difícil fueron los últimos ejercicios de teoría
 
 **¿Qué relación existe entre el montaje y la información de Linux? Recordad que son equipos distintos.**
 
-________________________________________________________________________
-
-________________________________________________________________________
+Los componentes que identificamos al montar el equipo A (procesador, RAM, almacenamiento) son los mismos tipos de recursos que Linux muestra en el equipo B con lscpu, free -h y lsblk. En el montaje vemos las piezas físicas, y en Linux vemos cómo las presenta el sistema. Al ser equipos distintos, los datos no se pueden comparar directamente: el A es un sobremesa con Intel Celeron G1840 y RAM DDR3, y el B es un Linux en WSL sobre un procesador ARM (Qualcomm Oryon), con recursos virtuales.
 
 **¿Qué haríais de otra manera en un próximo montaje?**
 
-________________________________________________________________________
-
-________________________________________________________________________
+Comprobariamos de mejor manera el que los cables estén conectados de mejor manera
 
 Antes de entregar:
 
-- [ ] Ficha completa.
-- [ ] Fotos identificadas.
-- [ ] Salidas de Linux revisadas.
+- [X] Ficha completa.
+- [X] Fotos identificadas.
+- [X] Salidas de Linux revisadas.
