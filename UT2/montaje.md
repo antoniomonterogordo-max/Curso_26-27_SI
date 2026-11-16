@@ -210,23 +210,20 @@ Porque la máquina virtual no accede directamente al hardware: el sistema anfitr
 
 Podéis usar una IA de Internet. No compartáis datos personales ni información privada del centro. Sin acceso a IA, resolved la duda con una fuente técnica.
 
-**Herramienta utilizada y fecha:** __________________________________________
+**Herramienta utilizada y fecha:** Claude, 16/11/2026
 
 **Pregunta planteada:**
 
-________________________________________________________________________
+Se le han planteado a la IA preguntas sobre información técnica, no conocida, como el apartado 13 
 
 **Respuesta resumida y afirmación concreta que decidisteis comprobar:**
 
-________________________________________________________________________
+Se nos dio el porque la diferencia del porque no podria aparecer un componente físico
 
-________________________________________________________________________
 
 **Fuente técnica o prueba utilizada y resultado:** confirmada / corregida / no verificada.
 
-________________________________________________________________________
-
-________________________________________________________________________
+No verificada
 
 ## 15. Valoración y entrega
 
